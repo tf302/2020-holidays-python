@@ -22,6 +22,7 @@ class Calculator:
 
 c=Calculator("Bad calculator",100,50,30)
 print(c.p)
+print(c.add(5,8))
 
 
 #_init_(self,) 构造函数
